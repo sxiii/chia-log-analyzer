@@ -1,6 +1,8 @@
 ### Chia log analyzer
 Bash script that post-processes chia plotter's logs to see your statistics
 
+![ChiaPlotDiagram](ChiaPlotDiagram.png?raw=true "Chia Plot Diagram")
+
 ### Description
 Have you ever considered what's your best plotting options? Forget to write down some values during plotting? That's no longer a problem due to this script.
 
