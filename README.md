@@ -1,5 +1,5 @@
 ### Chia log analyzer | Анализатор логов Chia
-Bash script that post-processes chia plotter's logs to see your statistics
+Bash script that post-processes chia plotter's logs to see your statistics <BR>
 Баш-скрипт, обрабатывающий логи плоттера Чиа, для получения полезной статистики. Русское ридми - ниже
 
 ![ChiaTimeDiagram](ChiaTimeDiagram.png?raw=true "Chia Time Diagram")
