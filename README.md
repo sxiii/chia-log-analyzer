@@ -19,7 +19,7 @@ Note: no demo files are provided. The script won't work as-is unless copied to C
 
 ### How to use
 This script (without modifications) should reside in plotter's log directory, which by default can be found here: `~/.chia/mainnet/plotter/`.
-If your path differs from this, please change the clone command accordingly.
+If your path differs from this, please change the commands accordingly.
 
 0. Enter your plotting directory: `cd ~/.chia/mainnet/plotter/`
 1. Clone this repo there: `git clone https://github.com/sxiii/chia-log-analyzer`
