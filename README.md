@@ -28,5 +28,4 @@ If your path differs from this, please change the commands accordingly.
 2. Move the files from chia-log-analyzer into current folder and remove the chia-log-analyzer folder: `mv ./chia-log-analyzer/* . && rm -rf ./chia-log-analyzer`
 3. Run the script (choose one of the two above, for example: `./chiacheck_onlyfinished.sh`)
 4. Open your terminal to full screen. Wait several seconds. You would see results on the screen as well as in file `result.tsv`.
-5. Optional: if you want, open the file (result.tsv) with any spreadsheet program you like, for example: `gnumeric result.tsv` or `libreoffice result.tsv` or `openoffice result.tsv` or others, or even just show everything again in terminal: `cat result.tsv`.
-
+5. Optional: if you want, open the file (result.tsv) with any spreadsheet program you like, for example: `gnumeric result.tsv` or `libreoffice result.tsv` or `openoffice result.tsv` or others, or even just show everything again in terminal: `cat result.tsv`. You can plot some nice charts like in this repo by using offline/desktop spreadsheet software or online/google spreadsheets.
