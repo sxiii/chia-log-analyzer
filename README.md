@@ -39,7 +39,7 @@ P.S. Theoretically, this script can use Mac/Win logs as well, but you will need 
 ### Further improvements & questions
 Feel free to send your ideas, questions and bug reports into the "issues" of this project. Also, if you'll manage to add some cool functionality, please send me a pull request.
 
-### Support authour
+### Support author
 You can support me directly via Github (Sponsors), or on my webpage https://sxiii.ru/donate
 
 ![ChiaCLI](ChiaCLI.png?raw=true "Chia CLI Results")
