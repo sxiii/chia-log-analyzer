@@ -6,8 +6,8 @@ Have you ever considered what's your best plotting options? Forget to write down
 
 ### Requirements
 * Linux
-* Bash and standard CLI tools installed [awk, grep] (most of Linux distros has this installed already)
-* Already existing log files from chia plotting
+* Bash and standard CLI tools installed [awk, grep] (most of Linux distros has this installed)
+* Existing log files from chia plotting
 
 ### What is inside this repo
 * `chiacheck_all.sh` - Script that builds statistics from all files, both from finished and cancelled plots.
