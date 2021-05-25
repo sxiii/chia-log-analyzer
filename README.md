@@ -44,6 +44,8 @@ You can support me directly via Github (Sponsors), or on my webpage https://sxii
 
 ![ChiaCLI](ChiaCLI.png?raw=true "Chia CLI Results")
 
+P. P. S. Automated NVME Chia Usage Analysis Bash oneliner: https://gist.github.com/sxiii/89c8ac2455d186dc6b279c7a0bd11622
+  
 ### Описание
 Задумывались ли вы когда-то, оптимальные ли настройки плоттинга у вас заданы? Забывали записывать ваши тестовые параметры? Это больше не проблема, благодаря данному скрипту.
 
